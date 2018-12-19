@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	background-color:  #212f3d;
+	background-image: url(imgbackground.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000 ;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 25px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #1c2833;
+}
+footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:  #000000 ;
+   color: white;
+   text-align: center;
+   padding: 2%;
+}
