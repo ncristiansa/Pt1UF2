@@ -3,7 +3,7 @@
 
 Investigación sobre la utilización del color en el diseño web.
 
-## Documentación del proceso.
+### Documentación del proceso.
 
 En nuestra web hemos utilizado un fondo donde se observa una exploción de distintos colores en este caso se varian entre colores como el cian, lila, rosado entre otros colores que surgen durante esta exploción.
 
